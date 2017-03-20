@@ -1,0 +1,2 @@
+rsync -avh /home/test /home/pi/tmp/
+差異備份
