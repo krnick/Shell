@@ -1,2 +1,5 @@
 rsync -avh /home/test /home/pi/tmp/
 差異備份
+
+遠端
+rsync -avzh /mypath/myfile.gz pi@192.168.1.12:/mybackup/
