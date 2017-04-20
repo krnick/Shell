@@ -25,4 +25,4 @@ apt-get megatools  rsync
   Passsword=#####
   
   
-  
+  megacopy --local tomega/  --remote /Root/
