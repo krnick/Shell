@@ -1,0 +1,28 @@
+
+apt-get megatools  rsync
+
+  megareg      註冊帳號
+  megadf       雲端硬碟使用狀況
+  megals       雲端所有目錄
+  megamkdir    產生一個目錄
+  megarm       刪除一個目錄或是檔案
+  megaput      上傳單一個檔案
+  megaget      取得單一個檔案
+  megadl       下載一個連結檔案 不需要登入
+               (doesn't require login)
+  megastream   Streaming download of a file
+               (can be used to preview videos or music)
+  megacopy     Upload or download a directory tree
+  
+  
+  
+  
+  在要上傳的目錄底下
+  vim .megarc
+  
+  [Login]
+  Username=######
+  Passsword=#####
+  
+  
+  
