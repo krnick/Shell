@@ -1,6 +1,9 @@
 
 apt-get megatools  rsync
 
+apt-get update && apt-get install -y megatools glib-networking fuse curl
+
+
   megareg      註冊帳號
   megadf       雲端硬碟使用狀況
   megals       雲端所有目錄
