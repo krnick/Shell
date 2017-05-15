@@ -1,0 +1,3 @@
+usermod 的用法跟 useradd 差不多，主要分別是 usermod 是變更帳號現有的設定，將現有帳號加入現有群組。例如將 nick 加入 officegroup 群組，指令是這樣：
+
+# usermod -a -G officegroup nick
