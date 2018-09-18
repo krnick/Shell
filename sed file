@@ -1,0 +1,1 @@
+sed -i  's/kjtsai/123/g' *.php
