@@ -36,6 +36,11 @@ tar -zcvpf $backup_directory/home.tar.gz /home    ## 備份/home 使用者的dir
 # cat group.mig >> /etc/group
 # cat shadow.mig >> /etc/shadow
 # cp gshadow.mig /etc/gshadow
-#
+#rsync -avh  home/* /home
 #
 ####################################################################################
+
+
+
+
+
